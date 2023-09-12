@@ -4,6 +4,7 @@ git add run.sh
 # git add matad.py
 # git add a05_vmugunda.ipynb
 git add requirements.txt
+git add main.py
 git add .gitignore
 git commit -m "$1"
 git push
