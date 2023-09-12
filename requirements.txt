@@ -1,0 +1,8 @@
+numpy
+jupyter
+ipykernel
+torch
+matplotlib
+torchvision
+tqdm
+termcolor
